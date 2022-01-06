@@ -1,0 +1,16 @@
+.home {
+  padding: 2.125rem;
+  text-align: center;
+  background: linear-gradient(
+      rgba(146, 90, 90, 0) 0%,
+      rgba(37, 18, 18, 0) 70%,
+      #1d1d1d 100%
+    ),
+    url("https://wi.wallpapertip.com/wsimgs/82-825008_high-resolution-background-image-for-website.jpg");
+  background-position: cover center;
+}
+
+.home h1 {
+  color: #fff;
+  font-size: 2.8125rem;
+}
